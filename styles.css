@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background: repeating-linear-gradient(115deg, #0000004d, #000000 10px);
+}
+#container{
+    margin: auto;
+    background-color: grey;
+    width: 80%;
+    border-radius: 10px;
+    padding: 10px;
+}
+#photo-heading{
+    text-align: center;
+}
+
+.frow{
+    margin: auto;
+    width: 90%;
+}
+.srow{
+    margin: auto;
+    width: 90%;
+}
+.trow{
+    margin: auto;
+    width: 90%;
+}
+
+img{
+    border-radius: 15px;
+    margin: 10px;
+}
