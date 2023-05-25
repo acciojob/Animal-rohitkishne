@@ -6,7 +6,7 @@
 html{
     background: repeating-linear-gradient(115deg, #0000004d, #000000 10px);
 }
-#container{
+#animal-photos{
     margin: auto;
     background-color: grey;
     width: 80%;
